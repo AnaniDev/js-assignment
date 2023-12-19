@@ -1,0 +1,11 @@
+.vip{
+    content: "hello";
+    background-color: blue;
+    width: 88px;
+    height: 55px;
+}
+.demo{
+    background-color: red;
+    width: 88px;
+    height: 55px;
+}
